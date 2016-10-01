@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id">1</item>
+    <item name="drawer_layout" type="id">2</item>
+    <item name="nav_view" type="id">3</item>
+    <item name="action_settings" type="id">4</item>
+    <item name="nav_camera" type="id">5</item>
+    <item name="nav_gallery" type="id">6</item>
+    <item name="nav_slideshow" type="id">7</item>
+    <item name="nav_manage" type="id">8</item>
+    <item name="nav_fare" type="id">9</item>
+    <item name="nav_profile" type="id">10</item>
+    <item name="nav_bookingHistory" type="id">11</item>
+    <item name="nav_logout" type="id">12</item>
+</resources>
