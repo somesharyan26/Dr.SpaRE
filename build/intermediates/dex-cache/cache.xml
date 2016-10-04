@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.2.1_33c8de63c59426ccfeef181eadeb7b0ef74269e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_3ddd94baff081b8cb43dd3aabcf48c87b63cf99c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.2.1_67c7510b6baae9e0b305a261a8bce272374b11b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.2.1_b37144e5b8efd5d2177f62c95f6c20e7b7bb230d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.1_ab58d62df4defd9e7640b54b5de1dab59da80ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_05cd28b24de91700f3744fc723846dc04ae2b428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_c092a01d53e0ab012b466f7dbfd82fa5c1ae8581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.2.1_b6b74c69516e39b558e6f2d2590a59b4a8473907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.2.1_e271e7b89fbe5e10fdd823c281cd35da5fb02314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.2.1_99f428ab3b8a349960c4879c6ea208ca2f9c9349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.2.1_cb6888379eca49911b428d0fe9849ee044eddcbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.1_2145685db167fe5d418f2787abdf57e4cc52add2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.2.1_d94cd3c1e4d0bbb82d367ef6b64207cf353c79a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.2.1_d8861f637eb0d837d2dbe182dd040213bd8301fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.2.1_71d84207c916d755d1f6e5f75d4dca66f6dc3081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.2.1_2c0499178fa686d7bbb1201f9b756f19e89be6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.2.1_cf3b7f7850b64d22d367506d56bd91ecba2bf7a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.2.1_fa700c8b8174a3b6f03a0bcc2b615e4cf2cf6c96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_6601db7619656fbf1fc1d5c741109923c279e290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.1_57fa10303447c7308e6d66908734543bca2e9e54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_e3c053fc989692c11833ad6aaef01da52cf2a02f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.2.1_fc62a8e62533219a60f3104549f89ea1cf32ae7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.2.1_17571f7c21330136ecbf43709ff56b7c3628df0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.2.1_2297296c6c15a5d993efbb91e4e34a2eb450d0f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.2.1_4f596700ecd658fc7a4c1bc4770f129b51b70d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_f923b089b7566204f47d0d37dbdf3b16b3022d0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.2.1_0d140a1d08230fcbb545c8847082c0c9c37333d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.2.1_3fd6cf35e66712f334f8444a3ca64e1066f5f325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_597c3b55d76109f7cc7c3bb2840d0fd942b80493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.2.1_16d30bdaea9895fdad1b16a9fdb1416c2a69922f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.2.1_101f3b49ace33750c05ceeeb87d235a05e40d66c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.2.1_e6d3cf8b492ed9e573d04d55f7189a59fcce684d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.2.1_128efac85ba2d1fc11f2defc664bdcea0766f7b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.2.1_66040c669ec9b6531d05ac740cca38c70bcbd090.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.2.1_9457b9eac5e860bf732197939d444cd2868a75f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.2.1_73046dc0b0f52d8a40d5bbd74486d2747a22348c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.1_35317f8e27ab9724cf7819a093dde8f226c44800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.2.1_2313b8b98a057b1c884404226f77ed0a78839da6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_e9f997e2a36e5d428d0d7802def4a54a2844e278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.2.1_3b334f91e1b5603d23252d53518bd5550fc7c54d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.1_2971d451481b35e2b2f9cb0d5397b8f45508a06c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.2.1_fe9d8f54a146f67cbea0f64d27246e88a0703269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.2.1_d7f4548db4b10231205d6de9d5e32b191fabb545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.2.1_b6bb031c48cdb71884b481b4e3f09e6cb7a920c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.2.1_d026dd5306685abc893347a37cca1375a4c48ce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.2.1_0fa5b584b8c2e9e83df51768357158ea87b50cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_28fbac2c65207b8c3e1220a3b9ed10c96546068c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-contextmanager-9.2.1_bf60bada46fef6ee3e707887697ed9aed231b683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.2.1_0bb07646b4572d43b973fc6e8d46cbb803f89df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.2.1_f6c26a00101cb653949d910d90738a705cc5cdaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.2.1_c10c773653ba05d06f56b428c07970de6424e7e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.2.1_99e7de2c91e78f32083c5934d6d4cbfe5eab9589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.2.1_37a673d288a529c408c5f0c1776283f85b126f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.2.1_2a0fe6123492920b240947bc35f15eaa1977c985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.2.1_18394cf4d3c00415cc25b9939978ef3af9928b27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.2.1_2c3e998db5602578e0742428bd37c3d4902d08cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.2.1_debc61dc9e8abd452be94c572cfc6abfc12ffece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_26b9b7844aedc4de3697eeb67b864f76b02ea94d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Somiesh\AndroidStudioProjects\Dr.SpaRE\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_b9b064935e1944f408adc41ab5900b644971a59a.jar" />
+    </item>
+
+</items>
